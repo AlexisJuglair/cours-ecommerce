@@ -1,0 +1,15 @@
+{
+    "emmet.variables": {
+
+    
+    },
+    "emmet.includeLanguages": {
+        "twig": "html",
+        "javascript": "javascriptreact",
+        "xml": "xml"
+    },
+    "emmet.triggerExpansionOnTab": true,
+    "php.suggest.basic": false,
+    "editor.formatOnSave": true,
+    
+}
