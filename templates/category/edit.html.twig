@@ -9,6 +9,8 @@
 
     {{ form_start(formView) }}
 
+    {{ form_errors(formView, {'attr': {'class': 'bg-danger'}}) }}
+
     {{ form_widget(formView) }}
 
     <button type="submit" class="btn btn-primary">
